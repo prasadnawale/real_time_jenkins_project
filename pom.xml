@@ -4,7 +4,7 @@
     <groupId>com.prasad</groupId>
     <artifactId>Login</artifactId>
     <packaging>war</packaging>
-    <version>8.0</version>
+    <version>9.0</version>
     <name>Account Registration Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
